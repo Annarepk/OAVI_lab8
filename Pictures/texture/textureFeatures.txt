@@ -1,0 +1,9 @@
+Текстурные признаки (исходное изображение texture.png):
+COS (Coarseness): 0.1381
+CON (Contrast): 54.3196
+BUS (Busyness): 6.2417
+
+Текстурные признаки (контрастированное изображение texture.png):
+COS (Coarseness): 0.2224
+CON (Contrast): 18.9214
+BUS (Busyness): 3.4966

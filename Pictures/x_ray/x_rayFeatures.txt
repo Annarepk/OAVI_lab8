@@ -1,0 +1,9 @@
+Текстурные признаки (исходное изображение x_ray.png):
+COS (Coarseness): 0.2401
+CON (Contrast): 15.0656
+BUS (Busyness): 3.1646
+
+Текстурные признаки (контрастированное изображение x_ray.png):
+COS (Coarseness): 0.2235
+CON (Contrast): 20.2464
+BUS (Busyness): 3.4733

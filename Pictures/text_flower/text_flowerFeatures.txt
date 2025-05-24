@@ -1,0 +1,9 @@
+Текстурные признаки (исходное изображение text_flower.png):
+COS (Coarseness): 0.0511
+CON (Contrast): 384.4933
+BUS (Busyness): 18.5865
+
+Текстурные признаки (контрастированное изображение text_flower.png):
+COS (Coarseness): 0.0565
+CON (Contrast): 547.4494
+BUS (Busyness): 16.7147
